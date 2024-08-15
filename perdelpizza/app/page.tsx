@@ -38,9 +38,6 @@ function page() {
 
 <Row>
 
-     <Col>      <KitchenSinkExample wene={mme} nav="Auber"/>
-     </Col>
-
 
 </Row>
 
