@@ -18,7 +18,7 @@ function page() {
 
 <Row>
 
-<Col>
+<Col><br></br>
 
 <KitchenSinkExample wene={mmv} nav="Veggie"/>
     
