@@ -4,9 +4,9 @@
 
 import React from 'react'
 import KitchenSinkExample from './components/card'
-import mmv from '../public/mmv.png'
+import mm1 from '../public/mm1.JPG'
 
-import mme from '../public/mmmedit.png'
+import mm2 from '../public/mmm2.JPG'
 
 import mma from '../public/mmauber.png'
 import { Container,Row,Col, Alert } from 'react-bootstrap'
@@ -30,9 +30,9 @@ function page() {
 
 <Col><br></br>
 
-<KitchenSinkExample wene={mmv} nav="Veggie"/>
+<KitchenSinkExample wene={mm1} nav="Veggie"/>
     
-  <br></br> <br></br>  <KitchenSinkExample wene={mma} nav="Auber"/>
+  <br></br> <br></br>  <KitchenSinkExample wene={mm2} nav="Auber"/>
 
 </Col>
 
