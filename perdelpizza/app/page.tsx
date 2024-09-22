@@ -6,7 +6,6 @@ import React from 'react'
 import KitchenSinkExample from './components/card'
 import mm1 from '../public/mm1.JPG'
 
-import mm2 from '../public/mmm2.JPG'
 
 import mm6 from '../public/mm6.JPG'
 
