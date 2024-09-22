@@ -6,13 +6,7 @@ import React from 'react'
 import KitchenSinkExample from './components/card'
 import mm1 from '../public/mm1.JPG'
 
-import mm2 from '../public/mm2.JPG'
-
-import mm3 from '../public/mm3.JPG'
-
-import mm4 from '../public/mm4.JPG'
-
-import mm5 from '../public/mm5.JPG'
+import mm2 from '../public/mmm2.JPG'
 
 import mm6 from '../public/mm6.JPG'
 
@@ -48,9 +42,9 @@ function page() {
 
 <Col><br></br>
 
-<KitchenSinkExample wene={mm1} nav="Delicious Pizza"/>
+<KitchenSinkExample wene={mm1} nav="Veggie"/>
     
-  <br></br> <br></br>  <KitchenSinkExample wene={mm3} nav="Beef Soecial"/>
+  <br></br> <br></br>  <KitchenSinkExample wene={mm2} nav="Auber"/>
 
 </Col>
 
