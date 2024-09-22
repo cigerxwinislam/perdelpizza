@@ -4,26 +4,26 @@
 
 import React from 'react'
 import KitchenSinkExample from './components/card'
-import mm1 from './mmxer/mm1.jpg'
+import mm1 from '../public/mm1.jpg'
 
 
-import mm6 from './public/mm6.jpg'
+import mm6 from '../public/mm6.jpg'
 
-import mm7 from './public/mm7.jpg'
+import mm7 from '../public/mm7.jpg'
 
-import mm8 from './public/mm8.jpg'
+import mm8 from '../public/mm8.jpg'
 
-import mm9 from './public/mm9.jpg'
+import mm9 from '../public/mm9.jpg'
 
-import mm10 from './public/mm10.jpg'
+import mm10 from '../public/mm10.jpg'
 
-import mm11 from './public/mm21.jpg'
+import mm11 from '../public/mm21.jpg'
 
-import mm12 from './public/mm17.jpg'
+import mm12 from '../public/mm17.jpg'
 
-import mm13 from './public/mm13.jpg'
+import mm13 from '../public/mm13.jpg'
 
-import mm14 from './public/mm14.jpg'
+import mm14 from '../public/mm14.jpg'
 import { Container,Row,Col, Alert } from 'react-bootstrap'
 
 function page() {
