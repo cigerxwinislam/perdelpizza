@@ -83,6 +83,8 @@ function page() {
 <Col>
 
 <KitchenSinkExample nav="Mexicano" wene={mb5}/>
+<br><br>
+
 
 <KitchenSinkExample nav="Akdeniz" wene={mb7}/>
 
@@ -93,17 +95,17 @@ function page() {
 <Row>
 
 <Col>
-
+<br><br>
 <KitchenSinkExample nav="Beef Soecial" wene={mb9}/>
-
+<br><br>
 <KitchenSinkExample nav="Cosmo" wene={mb11}/>
 
 </Col>
 
 <Col>
-
+<br><br>
 <KitchenSinkExample nav="Chicken Bbq" wene={mb15}/>
-
+<br><br>
 <KitchenSinkExample nav="Chicken Pesto " wene={mb17}/>
 
 </Col>
@@ -113,17 +115,17 @@ function page() {
 <Row>
 
 <Col>
-
+<br><br>
 <KitchenSinkExample nav="Delicious Pizza"  />
-
+<br><br>
 <KitchenSinkExample nav="Chicken Bbq"wene={mb21}/>
 
 </Col>
 
 <Col>
- 
+ <br><br>
 <KitchenSinkExample nav="Turkish Special" wene={mb23}/>
-
+<br><br>
 <KitchenSinkExample nav="Veggie" wene={mb25}/>
 <KitchenSinkExample nav="Bay Frodo" />
 
