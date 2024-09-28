@@ -9,7 +9,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 import 'bootstrap/dist/css/bootstrap.css'
 function BasicExample() {
   return (
-    <Navbar  bgColor="dark" expand="lg" className="bg-body-tertiary">
+    <Navbar  expand="lg" className="bg-body-tertiary">
       <Container >
         <Navbar.Brand href="#home">Per Delicious Pizza</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
