@@ -8,9 +8,9 @@ function page() {
   return (
     <div>
 
-<KitchenSinkExample nav="Tonton" wene={mb1}/>
+<KitchenSinkExample nav="Üçlü Orta Boy" />
 
-<KitchenSinkExample nav="Tonton" wene={mb1}/>
+<KitchenSinkExample nav="Üçlü Büyük Boy" />
 
 
 </div>
