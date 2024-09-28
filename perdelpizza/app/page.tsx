@@ -62,7 +62,7 @@ function page() {
 
 <Alert style={{background:"orange"}}>İçecek Çesitlerimiz</Alert>
 
-<Alert >Seçme Menülerimiz</Alert>
+<Alert style={{background:"orange"}}>Seçme Menülerimiz</Alert>
 
 
 </Alert>
