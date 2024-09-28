@@ -17,17 +17,8 @@ function BasicExample() {
           <Nav className="me-auto">
             <Nav.Link href="/">Anasayfa</Nav.Link>
             <Nav.Link href="/kurumsal">Kurumsal</Nav.Link>
-            <NavDropdown title="Yemek Dünyası" id="basic-nav-dropdown">
-              <NavDropdown.Item href="/">Menüler</NavDropdown.Item>
-              <NavDropdown.Item href="/">
-                Şefin Tavsiyesi
-              </NavDropdown.Item>
-              <NavDropdown.Item href="/">
-
-              ...
-              </NavDropdown.Item>
-            
-            </NavDropdown>
+     
+            <Nav.Link href="/hizmetler">Yemek Dünyası</Nav.Link>
             <Nav.Link href="/iletisim">İletişim</Nav.Link>
 
           </Nav>
