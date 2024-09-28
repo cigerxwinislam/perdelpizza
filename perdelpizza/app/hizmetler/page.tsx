@@ -12,6 +12,14 @@ function page() {
 
 <KitchenSinkExample nav="Üçlü Büyük Boy" />
 
+<KitchenSinkExample nav="Üçlü Küçük Boy" />
+
+<KitchenSinkExample nav="İkili Büyük Boy" />
+
+
+
+
+
 
 </div>
   )
