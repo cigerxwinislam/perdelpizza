@@ -56,13 +56,13 @@ function page() {
   return (
     <div>
 
-<Alert>
+<Alert style={{background:"black"}}>
 
-<Alert>Pizza Çesitlerimiz</Alert>
+<Alert style={{background:"orange"}}>Pizza Çesitlerimiz</Alert>
 
-<Alert>İçecek Çesitlerimiz</Alert>
+<Alert style={{background:"orange"}}>İçecek Çesitlerimiz</Alert>
 
-<Alert>Seçme Menülerimiz</Alert>
+<Alert >Seçme Menülerimiz</Alert>
 
 
 </Alert>
