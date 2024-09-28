@@ -16,7 +16,7 @@ function BasicExample() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href="/">Anasayfa</Nav.Link>
-            <Nav.Link href="/">Kurumsal</Nav.Link>
+            <Nav.Link href="/kurumsal">Kurumsal</Nav.Link>
             <NavDropdown title="Yemek Dünyası" id="basic-nav-dropdown">
               <NavDropdown.Item href="/">Menüler</NavDropdown.Item>
               <NavDropdown.Item href="/">
