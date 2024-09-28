@@ -4,7 +4,7 @@
 
 import React from 'react'
 
-import { Row,Container,Col } from 'react-bootstrap'
+import { Row,Container,Col ,Alert} from 'react-bootstrap'
 
 import KitchenSinkExample from './components/card'
 
@@ -56,7 +56,16 @@ function page() {
   return (
     <div>
 
+<Alert>
 
+<Alert>Pizza Çesitlerimiz</Alert>
+
+<Alert>İçecek Çesitlerimiz</Alert>
+
+<Alert>Seçme Menülerimiz</Alert>
+
+
+</Alert>
 
 
 <Container>
