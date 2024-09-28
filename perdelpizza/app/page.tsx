@@ -56,7 +56,7 @@ function page() {
   return (
     <div>
 
-<Alert style={{background:"black"}}>
+<Alert variant="secondary" style={{background:"black"}}>
 
 <Alert style={{background:"orange"}}>Pizza Çesitlerimiz</Alert>
 
