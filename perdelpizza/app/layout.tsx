@@ -13,6 +13,8 @@ import Footer from "./components/footer";
 
 import { Alert } from "react-bootstrap";
 import { Tegihistin } from "./components/tegihistin";
+
+import Mseri from './components/mseri'
 const inter = Inter({ subsets: ["latin"] });
 
 
@@ -30,6 +32,9 @@ export default function RootLayout({
     <html lang="en">
       <body style={{background:"#800000",color:"white"}} className={inter.className}>
         
+
+
+        <Mseri/>
         <BasicExample/>
         {children}
     

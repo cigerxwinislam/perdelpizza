@@ -22,9 +22,9 @@ import mm15 from '../image/mm15.jpg'
 
 import mm17 from '../image/mm17.jpg'
 import mm19 from '../image/mm19.jpg'
+
+
 import mm23 from '../image/mm23.jpg'
-
-
 
 
 
@@ -51,23 +51,23 @@ function page() {
 
 <Row>
 
-  <Col><KitchenSinkExample nav="" wene={mm1} />
+  <Col><KitchenSinkExample nav="Beef Special" wene={mm1} />
 
-<KitchenSinkExample nav="" wene={mm9}/>
+<KitchenSinkExample nav="Veggie" wene={mm9}/>
 
-<KitchenSinkExample nav="" wene={mm13} />
+<KitchenSinkExample nav="Turkish Special" wene={mm13} />
 
-<KitchenSinkExample nav="" wene={mm15}/>
+<KitchenSinkExample nav="" />
 
 </Col>
 
 
 
-  <Col><KitchenSinkExample nav="" wene={mm17}/>
+  <Col><KitchenSinkExample nav="Chicken Bbq" wene={mm17}/>
 
-<KitchenSinkExample nav="" wene={mm19} />
+<KitchenSinkExample nav="Bay Frodo" wene={mm19} />
 
-<KitchenSinkExample nav="" wene={mm23}/>
+<KitchenSinkExample nav="Mexicano" wene={mm23}/>
 
 <KitchenSinkExample nav="" />
 

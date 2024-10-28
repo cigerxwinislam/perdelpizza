@@ -11,7 +11,7 @@ import md2 from '../../image/dukkan2.jpg'
 import md3 from '../../image/dukkan3.jpg'
 import  Image  from 'next/image'
 
-function page() {
+function mmpage() {
   return (
 
 <div>
@@ -47,4 +47,4 @@ function page() {
   )
 }
 
-export default page
+export default mmpage
