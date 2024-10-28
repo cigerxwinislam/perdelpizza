@@ -56,7 +56,7 @@ function page() {
   return (
     <div>
 
-<Alert variant="secondary" style={{background:"black"}}>
+<Alert variant="secondary" style={{background:"white"}}>
 
 <Alert style={{background:"orange"}}>Pizza Çesitlerimiz</Alert>
 
@@ -109,7 +109,7 @@ function page() {
 
 </Container>
 
-<Alert variant="secondary" style={{background:"black"}}>
+<Alert variant="primary" style={{background:"white"}}>
 
 <Alert style={{background:"orange"}}>Diğer</Alert>
 
@@ -157,7 +157,7 @@ function page() {
 
 </Container>
 
-<Alert variant="secondary" style={{background:"black"}}>
+<Alert variant="secondary" style={{background:"white"}}>
 
 <Alert style={{background:"orange"}}>İçecek Çesitlerimiz</Alert>
 

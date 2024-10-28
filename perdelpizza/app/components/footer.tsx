@@ -6,8 +6,8 @@ import React from 'react';
 import { MDBFooter, MDBContainer, MDBRow, MDBCol, MDBIcon } from 'mdb-react-ui-kit';
 
 export default function Footer() {
-  return (
-    <MDBFooter bgColor='dark' className='text-center text-lg-start text-muted'>
+  return (<div >
+    <MDBFooter bgColor='white' className='text-center text-lg-start text-muted'>
       <section className='d-flex justify-content-center justify-content-lg-between p-4 border-bottom'>
         <div className='me-5 d-none d-lg-block'>
           <span>Bize Ulaşın</span>
@@ -126,5 +126,6 @@ export default function Footer() {
 <br></br>        <a href='/admin'>...</a>
       </div>
     </MDBFooter>
+    </div>
   );
 }
