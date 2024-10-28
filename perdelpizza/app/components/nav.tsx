@@ -9,11 +9,14 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 import 'bootstrap/dist/css/bootstrap.css'
 
 import mmpage from '../kurumsal/page';
+
+import Mseri from '../components/mseri';
 function BasicExample() {
   return (
     <Navbar  expand="lg" className="bg-body-tertiary">
       <Container >
         <Navbar.Brand href="#home"> Per Delicious Pizza</Navbar.Brand>
+        <Mseri/>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">

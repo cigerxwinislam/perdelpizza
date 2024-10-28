@@ -14,7 +14,6 @@ import Footer from "./components/footer";
 import { Alert } from "react-bootstrap";
 import { Tegihistin } from "./components/tegihistin";
 
-import Mseri from './components/mseri'
 const inter = Inter({ subsets: ["latin"] });
 
 
@@ -34,7 +33,7 @@ export default function RootLayout({
         
 
 
-        <Mseri/>
+ 
         <BasicExample/>
         {children}
     
