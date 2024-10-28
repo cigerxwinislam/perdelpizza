@@ -60,9 +60,6 @@ function page() {
 
 <Alert style={{background:"orange"}}>Pizza Çesitlerimiz</Alert>
 
-<Alert style={{background:"orange"}}>İçecek Çesitlerimiz</Alert>
-
-<Alert style={{background:"orange"}}>Seçme Menülerimiz</Alert>
 
 
 </Alert>
@@ -112,6 +109,101 @@ function page() {
 
 </Container>
 
+<Alert variant="secondary" style={{background:"black"}}>
+
+<Alert style={{background:"orange"}}>Diğer</Alert>
+
+
+
+</Alert>
+
+<Container>
+
+<Row>
+
+  <Col><KitchenSinkExample nav="" />
+
+<KitchenSinkExample nav="" />
+
+<KitchenSinkExample nav="" />
+
+<KitchenSinkExample nav="" />
+
+</Col>
+
+
+
+  <Col><KitchenSinkExample nav="" />
+
+<KitchenSinkExample nav="" />
+
+<KitchenSinkExample nav="" />
+
+<KitchenSinkExample nav="" />
+
+</Col>
+</Row>
+
+
+<Row>
+
+  <Col></Col>
+
+  <Col></Col>
+</Row>
+
+
+
+
+</Container>
+
+<Alert variant="secondary" style={{background:"black"}}>
+
+<Alert style={{background:"orange"}}>İçecek Çesitlerimiz</Alert>
+
+
+
+</Alert>
+
+<Container>
+
+<Row>
+
+  <Col><KitchenSinkExample nav="" />
+
+<KitchenSinkExample nav="" />
+
+<KitchenSinkExample nav="" />
+
+<KitchenSinkExample nav="" />
+
+</Col>
+
+
+
+  <Col><KitchenSinkExample nav="" />
+
+<KitchenSinkExample nav="" />
+
+<KitchenSinkExample nav="" />
+
+<KitchenSinkExample nav="" />
+
+</Col>
+</Row>
+
+
+<Row>
+
+  <Col></Col>
+
+  <Col></Col>
+</Row>
+
+
+
+
+</Container>
 
 
 
