@@ -34,7 +34,7 @@ export default function RootLayout({
 
 
  
-        <BasicExample/>
+        <BasicExample />
         {children}
     
 <Tegihistin />

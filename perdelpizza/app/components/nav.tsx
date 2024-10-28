@@ -15,7 +15,7 @@ function BasicExample() {
   return (
     <Navbar  expand="lg" className="bg-body-tertiary">
       <Container >
-        <Navbar.Brand href="#home"> Per Delicious Pizza</Navbar.Brand>
+        <Navbar.Brand href="#home"> </Navbar.Brand>
         <Mseri/>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

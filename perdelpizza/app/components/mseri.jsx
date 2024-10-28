@@ -4,7 +4,7 @@
 
 import React from 'react'
 
-import mml from '../../image/mlogo.jpg'
+import mml from '../../image/mlogo1.jpg'
 
 import Image from 'next/image'
 export default function Mseri() {
@@ -15,7 +15,7 @@ export default function Mseri() {
       src={mml}
       alt="Picture of the author"
        width={195} 
-      height={70} 
+      height={95} 
       // blurDataURL="data:..." automatically provided
       // placeholder="blur" // Optional blur-up while loading
     />
