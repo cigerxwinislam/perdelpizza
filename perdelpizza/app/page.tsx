@@ -94,7 +94,7 @@ function page() {
 
 <Alert variant="primary" style={{background:"white"}}>
 
-<Alert style={{background:"orange"}}>Diğer</Alert>
+<Alert style={{background:"orange"}}>Kampanyalar</Alert>
 
 
 
