@@ -51,11 +51,11 @@ function page() {
 
 <Row>
 
-  <Col><KitchenSinkExample nav="Beef Special" wene={mm1} />
+  <Col><KitchenSinkExample nav="Beef Special" wene={mm1} bttn="Büyük Boy" mbttn="Orta Boy" mmbttn="Küçük Boy" />
 
 <KitchenSinkExample nav="Veggie" wene={mm9}/>
 
-<KitchenSinkExample nav="Turkish Special" wene={mm13} />
+<KitchenSinkExample nav="Mexicano" wene={mm13} />
 
 <KitchenSinkExample nav="" />
 
@@ -67,7 +67,7 @@ function page() {
 
 <KitchenSinkExample nav="Bay Frodo" wene={mm19} />
 
-<KitchenSinkExample nav="Mexicano" wene={mm23}/>
+<KitchenSinkExample nav="Turkish Special" wene={mm23}/>
 
 <KitchenSinkExample nav="" />
 
@@ -105,7 +105,7 @@ function page() {
 
 <KitchenSinkExample nav="" />
 
-<KitchenSinkExample nav="" />
+<KitchenSinkExample nav="" bttn="Büyük Boy" mbttn="Orta Boy" mmbttn="Küçük Boy" />
 
 </Col>
 

@@ -3,14 +3,15 @@
 "use client"
 
 import Card from 'react-bootstrap/Card';
-import ListGroup from 'react-bootstrap/ListGroup';
 import 'bootstrap/dist/css/bootstrap.css'
 
 import Image from 'next/image';
 
-import nozdeh from '/public/19.jpeg'
-import { Button } from 'react-bootstrap';
-function KitchenSinkExample(props:any) {
+
+import { Dropdown } from 'react-bootstrap';
+
+
+function KitchenSinkExample (props:any) {
   return (
     <Card style={{ width: '25rem' }}>
  <Image
@@ -32,7 +33,17 @@ function KitchenSinkExample(props:any) {
 
 
 
-    <Button href='/hizmetler'>{props.bttn}</Button>
+      <Dropdown>
+      <Dropdown.Toggle variant="success" id="dropdown-basic">
+        Fiyatlar
+      </Dropdown.Toggle>
+
+      <Dropdown.Menu>
+        <Dropdown.Item href="#/action-1">{props.bttn}</Dropdown.Item>
+        <Dropdown.Item href="#/action-2">{props.mbttn}</Dropdown.Item>
+        <Dropdown.Item href="#/action-3">{props.mmbttn}</Dropdown.Item>
+      </Dropdown.Menu>
+    </Dropdown>
       </Card.Body>
     </Card>
   );
