@@ -15,7 +15,7 @@ export default function Mseri() {
       src={mml}
       alt="Picture of the author"
        width={195} 
-      height={95} 
+      height={135} 
       // blurDataURL="data:..." automatically provided
       // placeholder="blur" // Optional blur-up while loading
     />
