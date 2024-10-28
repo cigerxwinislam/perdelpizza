@@ -14,7 +14,7 @@ export function Tegihistin() {
 
 
 
-     <Button  href="tel:+905550101104"><FaPhone  /></Button> Aydınlı Şube
+     <Button  href="tel:02163934833"><FaPhone  /></Button> Aydınlı Şube
 
 
   </Alert>
