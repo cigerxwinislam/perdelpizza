@@ -51,7 +51,7 @@ function page() {
 
 <Row>
 
-  <Col><KitchenSinkExample nav="Beef Special" wene={mm1} bttn="Büyük Boy" mbttn="Orta Boy" mmbttn="Küçük Boy" />
+  <Col><KitchenSinkExample nav="Beef Special" nivis="Özel pizza sosu muzarella peyniri kırmızı biber dana kavurma" wene={mm1} bttn="Büyük Boy= 199.90 TL" mbttn="Orta Boy=159.90 TL" mmbttn="Küçük Boy=199.90 TL" />
 
 <KitchenSinkExample nav="Veggie" wene={mm9}/>
 
