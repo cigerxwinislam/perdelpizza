@@ -4,19 +4,21 @@
 
 import React from 'react'
 import KitchenSinkExample from '../components/card'
+import Image from 'next/image';
+
+import mml from '../../image/1_page-0001.jpg'
 function page() {
   return (
     <div>
 
-<KitchenSinkExample nav="Üçlü Orta Boy" />
-
-<KitchenSinkExample nav="Üçlü Büyük Boy" />
-
-<KitchenSinkExample nav="Üçlü Küçük Boy" />
-
-<KitchenSinkExample nav="İkili Büyük Boy" />
-
-
+<Image
+      src={mml}
+      alt="Picture of the author"
+       width={355} 
+      height={500} 
+      // blurDataURL="data:..." automatically provided
+      // placeholder="blur" // Optional blur-up while loading
+    />
 
 
 

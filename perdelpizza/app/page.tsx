@@ -22,10 +22,12 @@ import mm15 from '../image/mm15.jpg'
 
 import mm17 from '../image/mm17.jpg'
 import mm19 from '../image/mm19.jpg'
-
+import mm77 from '../image/mm77.jpg'
+import mm35 from '../image/mm35.jpg'
 
 import mm23 from '../image/mm23.jpg'
-
+import mm55 from '../image/mm55.jpg'
+import mm51 from '../image/mm35.jpg'
 
 
 
@@ -51,25 +53,25 @@ function page() {
 
 <Row>
 
-  <Col><KitchenSinkExample nav="Beef Special" nivis="Özel pizza sosu muzarella peyniri kırmızı biber dana kavurma" wene={mm1} bttn="Büyük Boy= 199.90 TL" mbttn="Orta Boy=159.90 TL" mmbttn="Küçük Boy=199.90 TL" />
+  <Col><KitchenSinkExample nav="Beef Special" nivis="Özel pizza sosu muzarella peyniri kırmızı biber dana kavurma" wene={mm1} bttn="Büyük Boy= 329.90 TL" mbttn="Orta Boy=299.90 TL" mmbttn="Küçük Boy=229.90 TL" />
 
-<KitchenSinkExample nav="Veggie" wene={mm9}/>
+<KitchenSinkExample nav="Veggie" wene={mm9} bttn="Büyük Boy= 299.90 TL" mbttn="Orta Boy=269.90 TL" mmbttn="Küçük Boy=199.90 TL"/>
 
-<KitchenSinkExample nav="Mexicano" wene={mm13} />
+<KitchenSinkExample nav="Mexicano" wene={mm13} bttn="Büyük Boy= 299.90 TL" mbttn="Orta Boy=259.90 TL" mmbttn="Küçük Boy=199.90 TL"/>
 
-<KitchenSinkExample nav="" />
+<KitchenSinkExample nav="" wene={mm77} />
 
 </Col>
 
 
 
-  <Col><KitchenSinkExample nav="Chicken Bbq" wene={mm17}/>
+  <Col><KitchenSinkExample nav="Chicken Bbq" wene={mm17} bttn="Büyük Boy= 299.90 TL" mbttn="Orta Boy=159.90 TL" mmbttn="Küçük Boy=199.90 TL"/>
 
-<KitchenSinkExample nav="Bay Frodo" wene={mm19} />
+<KitchenSinkExample nav="Bay Frodo" wene={mm19} bttn="Büyük Boy= 299.90 TL" mbttn="Orta Boy=269.90 TL" mmbttn="Küçük Boy=199.90 TL"/>
 
-<KitchenSinkExample nav="Turkish Special" wene={mm23}/>
+<KitchenSinkExample nav="Turkish Special" wene={mm23} nivis="özel pizza" bttn="Büyük Boy= 199.90 TL" mbttn="Orta Boy=159.90 TL" mmbttn="Küçük Boy=199.90 TL"/>
 
-<KitchenSinkExample nav="" />
+<KitchenSinkExample nav="" wene={mm35} />
 
 </Col>
 </Row>
@@ -77,9 +79,12 @@ function page() {
 
 <Row>
 
-  <Col></Col>
+  <Col><KitchenSinkExample nav="" wene={mm55} />
 
-  <Col></Col>
+  </Col>
+
+  <Col><KitchenSinkExample nav="" wene={mm35} />
+  </Col>
 </Row>
 
 
