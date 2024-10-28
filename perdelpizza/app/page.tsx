@@ -71,6 +71,50 @@ function page() {
 
 
 
+
+<Container>
+
+<Row>
+
+  <Col><KitchenSinkExample nav="" />
+
+<KitchenSinkExample nav="" />
+
+<KitchenSinkExample nav="" />
+
+<KitchenSinkExample nav="" />
+
+</Col>
+
+
+
+  <Col><KitchenSinkExample nav="" />
+
+<KitchenSinkExample nav="" />
+
+<KitchenSinkExample nav="" />
+
+<KitchenSinkExample nav="" />
+
+</Col>
+</Row>
+
+
+<Row>
+
+  <Col></Col>
+
+  <Col></Col>
+</Row>
+
+
+
+
+</Container>
+
+
+
+
     </div>
   )
 }
