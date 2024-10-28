@@ -11,13 +11,17 @@ export function Tegihistin() {
   return (<div style={{position:"fixed",bottom:"0px"}}>
     <Alert style={{margin:7,color:"white",background:"orange"}} >
      <Button  href="tel:02164461021"><FaPhone  /></Button> Tuzla Merkez <span></span>
+     </Alert>
 
 
-
+     <Alert style={{margin:7,color:"white",background:"orange"}} >
+   
      <Button  href="tel:02163934833"><FaPhone  /></Button> Aydınlı Şube
 
+     </Alert>
 
-  </Alert>
+
+ 
     </div>
   );
 }
