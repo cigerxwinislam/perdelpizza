@@ -12,7 +12,7 @@ import KitchenSinkExample from './components/card'
 
 
 
-import mb1 from '../public/mb9.jpg'
+import mm1 from '../image/mm5.jpg'
 
 import mb2 from '../public/mb10.jpg'
 
@@ -73,7 +73,7 @@ function page() {
 
 <Row>
 
-  <Col><KitchenSinkExample nav="" />
+  <Col><KitchenSinkExample nav="" wene={mm1} />
 
 <KitchenSinkExample nav="" />
 
