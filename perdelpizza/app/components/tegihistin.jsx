@@ -8,12 +8,14 @@ import { Alert, Button } from "react-bootstrap";
 import { FaPhone } from "react-icons/fa";
 import { WhatsAppWidget } from 'react-whatsapp-widget';
 export function Tegihistin() {
-  return (<div>
+  return (<div style={{position:"fixed",bottom:"0px"}}>
     <Alert style={{margin:7,color:"white",background:"orange"}} >
-     <Button  href="tel:+905522531213"><FaPhone  /></Button> Telefon Et
+     <Button  href="tel:+905528374837"><FaPhone  /></Button> Tuzla Merkez <span></span>
 
 
-  <WhatsAppWidget message=" Whatsapptan Mesajınızı Yazın" inputPlaceHolder="Mesajınızı Yazın" replyTimeText="En kısa zamanda dönüş yapılacaktır" sendButtonText="Gönder" companyName="" phoneNumber="+905522531213" ></WhatsAppWidget>
+
+     <Button  href="tel:+905550101104"><FaPhone  /></Button> Aydınlı Şube
+
 
   </Alert>
     </div>
