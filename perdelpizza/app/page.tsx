@@ -55,7 +55,7 @@ function page() {
 
   <Col><KitchenSinkExample nav="Beef Special" nivis="Özel pizza sosu muzarella peyniri kırmızı biber dana kavurma" wene={mm1} bttn="Büyük Boy= 329.90 TL" mbttn="Orta Boy=299.90 TL" mmbttn="Küçük Boy=229.90 TL" />
 
-<KitchenSinkExample nav="Veggie" wene={mm9} bttn="Büyük Boy= 299.90 TL" mbttn="Orta Boy=269.90 TL" mmbttn="Küçük Boy=199.90 TL"/>
+<KitchenSinkExample nav="Bay Frodo" wene={mm9} bttn="Büyük Boy= 299.90 TL" mbttn="Orta Boy=269.90 TL" mmbttn="Küçük Boy=199.90 TL"/>
 
 <KitchenSinkExample nav="Mexicano" wene={mm13} bttn="Büyük Boy= 299.90 TL" mbttn="Orta Boy=259.90 TL" mmbttn="Küçük Boy=199.90 TL"/>
 
@@ -67,7 +67,7 @@ function page() {
 
   <Col><KitchenSinkExample nav="Chicken Bbq" wene={mm17} bttn="Büyük Boy= 299.90 TL" mbttn="Orta Boy=159.90 TL" mmbttn="Küçük Boy=199.90 TL"/>
 
-<KitchenSinkExample nav="Bay Frodo" wene={mm19} bttn="Büyük Boy= 299.90 TL" mbttn="Orta Boy=269.90 TL" mmbttn="Küçük Boy=199.90 TL"/>
+<KitchenSinkExample nav="Veggie" wene={mm19} bttn="Büyük Boy= 299.90 TL" mbttn="Orta Boy=269.90 TL" mmbttn="Küçük Boy=199.90 TL"/>
 
 <KitchenSinkExample nav="Turkish Special" wene={mm23} nivis="özel pizza" bttn="Büyük Boy= 199.90 TL" mbttn="Orta Boy=159.90 TL" mmbttn="Küçük Boy=199.90 TL"/>
 
