@@ -60,7 +60,7 @@ function page() {
 
 <KitchenSinkExample nav="Mexicano" wene={mm13} bttn="Büyük Boy= 299.90 TL" mbttn="Orta Boy=259.90 TL" mmbttn="Küçük Boy=199.90 TL"/>
 
-<KitchenSinkExample nav="" wene={mm77} />
+<KitchenSinkExample nav="Delicious" wene={mm77}        bttn="Büyük Boy= 299.90 TL" mbttn="Orta Boy=259.90 TL" mmbttn="Küçük Boy=199.90 TL" />
 
 </Col>
 
@@ -72,7 +72,7 @@ function page() {
 
 <KitchenSinkExample nav="Turkish Special" wene={mm23} nivis="özel pizza" bttn="Büyük Boy= 199.90 TL" mbttn="Orta Boy=159.90 TL" mmbttn="Küçük Boy=199.90 TL"/>
 
-<KitchenSinkExample nav="Tonton" wene={mm35} />
+<KitchenSinkExample nav="Tonton" wene={mm35}  bttn="Büyük Boy= 299.90 TL" mbttn="Orta Boy=259.90 TL" mmbttn="Küçük Boy=199.90 TL"/>
 
 </Col>
 </Row>
@@ -80,11 +80,11 @@ function page() {
 
 <Row>
 
-  <Col><KitchenSinkExample nav="Cosmo" wene={mm55} />
+  <Col><KitchenSinkExample nav="Cosmo" wene={mm55}  bttn="Büyük Boy= 299.90 TL" mbttn="Orta Boy=259.90 TL" mmbttn="Küçük Boy=199.90 TL"/>
 
   </Col>
 
-  <Col><KitchenSinkExample nav="" wene={mm12} />
+  <Col><KitchenSinkExample nav="Pesto Mix" wene={mm12}   bttn="Büyük Boy= 299.90 TL" mbttn="Orta Boy=259.90 TL" mmbttn="Küçük Boy=199.90 TL"/>
   </Col>
 </Row>
 
