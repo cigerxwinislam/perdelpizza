@@ -71,7 +71,7 @@ function page() {
 
 <KitchenSinkExample nav="Turkish Special" wene={mm23} nivis="özel pizza" bttn="Büyük Boy= 199.90 TL" mbttn="Orta Boy=159.90 TL" mmbttn="Küçük Boy=199.90 TL"/>
 
-<KitchenSinkExample nav="" wene={mm35} />
+<KitchenSinkExample nav="Tonton" wene={mm35} />
 
 </Col>
 </Row>
