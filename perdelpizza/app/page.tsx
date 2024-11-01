@@ -83,7 +83,7 @@ function page() {
 
   </Col>
 
-  <Col><KitchenSinkExample nav="" wene={mm35} />
+  <Col><KitchenSinkExample nav=""  />
   </Col>
 </Row>
 
