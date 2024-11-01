@@ -24,6 +24,7 @@ import mm17 from '../image/mm17.jpg'
 import mm19 from '../image/mm19.jpg'
 import mm77 from '../image/mm77.jpg'
 import mm35 from '../image/mm35.jpg'
+import mm12 from '../image/mm12.jpg'
 
 import mm23 from '../image/mm23.jpg'
 import mm55 from '../image/mm55.jpg'
@@ -83,7 +84,7 @@ function page() {
 
   </Col>
 
-  <Col><KitchenSinkExample nav="" wene={mm35} />
+  <Col><KitchenSinkExample nav="" wene={mm12} />
   </Col>
 </Row>
 
@@ -145,7 +146,7 @@ function page() {
 <Alert style={{background:"orange"}}>İçecek Çesitlerimiz</Alert>
 
 
-
+ 
 </Alert>
 
 <Container>
