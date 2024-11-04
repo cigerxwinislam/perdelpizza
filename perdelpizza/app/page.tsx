@@ -56,7 +56,7 @@ function page() {
 
   <Col><KitchenSinkExample nav="Beef Special" nivis="Özel pizza sosu muzarella peyniri kırmızı biber dana kavurma" wene={mm1} bttn="Büyük Boy= 329.90 TL" mbttn="Orta Boy=299.90 TL" mmbttn="Küçük Boy=229.90 TL" />
 
-<KitchenSinkExample nav="Bay Frodo" wene={mm9} nivis="" bttn="Büyük Boy= 299.90 TL" mbttn="Orta Boy=269.90 TL" mmbttn="Küçük Boy=199.90 TL"/>
+<KitchenSinkExample nav="Bay Frodo" wene={mm9} nivis="özel pizza sos,mozzerella peyniri,sucuk,beyaz peynir,yeşil biber." bttn="Büyük Boy= 299.90 TL" mbttn="Orta Boy=269.90 TL" mmbttn="Küçük Boy=199.90 TL"/>
 
 <KitchenSinkExample nav="Mexicano" wene={mm13} nivis="Özel pizza sos,mozzerella peynir,sucuk,mantar,kırmızı biber" bttn="Büyük Boy= 299.90 TL" mbttn="Orta Boy=259.90 TL" mmbttn="Küçük Boy=199.90 TL"/>
 
