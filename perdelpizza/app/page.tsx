@@ -32,6 +32,12 @@ import mm51 from '../image/mm35.jpg'
 
 
 
+import mnb1 from '../image/mnb1.jpg'
+
+import mnb2 from '../image/mnb2.jpg'
+
+import mnb3 from '../image/mnb3.jpg'
+
 
 function page() {
   return (
@@ -105,11 +111,11 @@ function page() {
 
 <Row>
 
-  <Col><KitchenSinkExample nav="" />
+  <Col><KitchenSinkExample nav="" wene={mnb1} />
 
-<KitchenSinkExample nav="" />
+<KitchenSinkExample nav=""  wene={mnb2} />
 
-<KitchenSinkExample nav="" />
+<KitchenSinkExample nav=""  wene={mnb3}/>
 
 <KitchenSinkExample nav="" bttn="Büyük Boy" mbttn="Orta Boy" mmbttn="Küçük Boy" />
 
