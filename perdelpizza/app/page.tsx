@@ -18,11 +18,11 @@ import mm9 from '../image/mm9.png'
 import mm13 from '../image/mm13.jpg'
 import mm15 from '../image/mm15.jpg'
 
-import mnb1 from '../image/mnb1.jpg '
+import mnb1 from '../image/mnb1.jpg'
 
-import mnb2 from '../image/mnb2.jpg '
+import mnb2 from '../image/mnb2.jpg'
 
-import mnb3 from '../image/mnb3.jpg '
+import mnb3 from '../image/mnb3.jpg'
 import mm17 from '../image/mm17.jpg'
 import mm19 from '../image/mm19.jpg'
 import mm77 from '../image/mm77.jpg'
@@ -109,11 +109,11 @@ function page() {
 
 <Row>
 
-  <Col><KitchenSinkExample nav="" wene={mnb1} />
+  <Col><KitchenSinkExample nav="Üçlü Büyük Boy" wene={mnb1} />
 
-<KitchenSinkExample nav=""  wene={mnb2} />
+<KitchenSinkExample nav="ikili Büyük Boy"  wene={mnb2} />
 
-<KitchenSinkExample nav=""  wene={mnb3}/>
+<KitchenSinkExample nav="Üçlü Pizza "  wene={mnb3}/>
 
 <KitchenSinkExample nav="" bttn="Büyük Boy" mbttn="Orta Boy" mmbttn="Küçük Boy" />
 
