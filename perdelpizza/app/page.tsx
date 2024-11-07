@@ -18,8 +18,11 @@ import mm9 from '../image/mm9.png'
 import mm13 from '../image/mm13.jpg'
 import mm15 from '../image/mm15.jpg'
 
+import mnb1 from '../image/mnb1.jpg '
 
+import mnb2 from '../image/mnb2.jpg '
 
+import mnb3 from '../image/mnb3.jpg '
 import mm17 from '../image/mm17.jpg'
 import mm19 from '../image/mm19.jpg'
 import mm77 from '../image/mm77.jpg'
